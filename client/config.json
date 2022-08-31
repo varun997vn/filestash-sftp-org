@@ -1,0 +1,4 @@
+{
+    "ldapUrl": "https://path/to/authentication?returnto=http://localhost:8334/meter/",
+    "orgServices": "http://api/to/fetch/connectionparams?meterid=<meterId>&token=<token>"
+} 
